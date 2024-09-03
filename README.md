@@ -1,36 +1,13 @@
-## Hi there 👋, I'm Mohamed Ashraf Mansour
+<h1 align="center">Hi 👋, I'm Mohamed Ashraf</h1>
+<h3 align="center">AI Enthusiast | ML Engineer | Lifelong Learner</h3>
 
-### 🚀 About Me
-I'm a **Machine Learning Engineer** and a recent graduate from the Faculty of Computers and Information, Mansoura University, specializing in Artificial Intelligence. Currently, I am a **Teaching Assistant at Al-Obour Institutes**.
+- 📫 How to reach me **mohamedashrafmans7@gmail.com**
 
-- 🌟 I have completed the **Microsoft Machine Learning Engineer program**.
-- 📚 I'm constantly learning and working on enhancing my skills in **Machine Learning, Deep Learning, and Computer Vision**.
-- 💡 I recently developed a pneumonia detection model using chest X-ray images, achieving an accuracy of **97%**.
-- 🔍 I'm exploring opportunities to integrate AI models into real-world applications, especially in the healthcare domain.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ashraf-084aa8261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ashraf-084aa8261/" height="30" width="40" /></a>
+<a href="https://kaggle.com/mohamedashraf7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamedashraf7" height="30" width="40" /></a>
+</p>
 
-### 💼 Experience & Projects
-- **AI Model Developer**: Developed and deployed an AI model for pneumonia detection, integrated into an iOS application named 'Rocheta', which connects doctors and patients for consultations.
-- **Freelance Machine Learning Engineer**: Worked on various projects that include model development, hyperparameter tuning, and model evaluation.
-- **Internships**: Completed summer internships and applied my skills in AI tracking technologies.
-- **Business Development**: Created presentations on business development, explaining its concepts and skills required, which were applied in real-world cases.
-
-### 🎯 My Goals
-- 🌱 Continue expanding my knowledge in **Artificial Intelligence and Machine Learning**.
-- 👯 I’m looking to collaborate on projects that involve **AI in healthcare**.
-- 🤝 Open to contributing to open-source AI projects and joining a team of innovators.
-
-### 🔧 Technologies & Tools
-- **Languages**: Python, SQL
-- **Frameworks**: TensorFlow, PyTorch, FastAPI
-- **Tools**: Streamlit, Git, Docker
-
-### 📫 How to reach me
-- **LinkedIn**: [Mohamed Ashraf Mansour](https://www.linkedin.com/in/mohamedashrafmansour)
-- **Email**: mohamedashraf404@gmail.com
-
-### 😄 Fun Fact
-- **Did you know?** I’m deeply passionate about integrating AI into everyday life, especially in the field of healthcare to make impactful changes!
-
----
-
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you're interested in collaboration.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
