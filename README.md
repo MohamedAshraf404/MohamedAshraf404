@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ashraf</h1>
 <h3 align="center">Data Analyst | Business Intelligence Specialist | Storyteller with Data</h3>
 
-🌟 **Turning Data into Actionable Insights and Decisions** 🌟  
+🌟 **Transforming Raw Data into Strategic Insights** 🌟  
 
-I specialize in analyzing data, building dashboards, and creating insightful visualizations that help businesses grow. Whether it's diving into datasets, automating workflows, or crafting compelling reports, I am passionate about making data speak.
+I am a data enthusiast with a knack for turning complex datasets into actionable insights. My expertise lies in analyzing data, building interactive dashboards, and crafting compelling visualizations that drive business growth. From automating workflows to presenting data-driven stories, I thrive on making data accessible and impactful.
 
 ---
 
 <h2 align="left">🚀 My Expertise</h2>
 
-- **📊 Data Analysis:** Proficient in analyzing complex datasets to uncover trends and insights.  
-- **📈 Business Intelligence:** Developing dynamic dashboards and reports using Power BI and Tableau.  
-- **🔄 Automation:** Simplifying workflows with Python and SQL for efficient decision-making.  
-- **📚 Data Storytelling:** Presenting findings in ways that are easy to understand and impactful for business strategy.  
+- **📊 Data Analysis:** Uncovering hidden trends and patterns in complex datasets to drive decision-making.  
+- **📈 Business Intelligence:** Designing dynamic, user-friendly dashboards using Power BI and Tableau.  
+- **🔄 Automation:** Streamlining processes with Python and SQL to enhance efficiency and accuracy.  
+- **📚 Data Storytelling:** Communicating insights through clear, impactful narratives that influence business strategy.  
 
 ---
 
@@ -22,7 +22,7 @@ I specialize in analyzing data, building dashboards, and creating insightful vis
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.tableau.com/themes/custom/tableau_www_theme/assets/images/favicon.png" alt="Tableau" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -42,21 +42,21 @@ I specialize in analyzing data, building dashboards, and creating insightful vis
 
 <h2 align="left">💡 My Key Projects</h2>
 
-- **📌 Sales Dashboard:** Created an interactive Power BI dashboard to analyze sales performance and highlight growth opportunities.  
-- **📌 Marketing Campaign Analysis:** Automated campaign reports using Python, SQL, and Tableau for real-time insights.  
-- **📌 Financial KPIs Tracker:** Built a KPI tracker to monitor company performance using SQL and Power BI.  
+- **📌 Sales Performance Dashboard:** Developed an interactive Power BI dashboard to analyze sales trends, identify growth opportunities, and optimize revenue streams.  
+- **📌 Marketing Campaign Analytics:** Automated the generation of campaign performance reports using Python, SQL, and Tableau, enabling real-time decision-making.  
+- **📌 Financial KPI Tracker:** Built a comprehensive KPI monitoring system using SQL and Power BI to track and visualize key financial metrics.  
 
 ---
 
 <h2 align="left">🌟 Let's Connect!</h2>
 <p align="left">
-  <a [href="https://www.linkedin.com/in/mohamed-ashraf-mansour/" target="blank">
+  <a href="https://www.linkedin.com/in/mohamed-ashraf-mansour/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/mohamedashraf7" target="blank">
+  <a href="https://kaggle.com/mohamedashraf7" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
 </p>
 
-📧 **Email me:** mohamedashrafmans7@gmail.com  
-💡 **Let's make data work for you!**
+📧 **Email me:** [mohamedashrafmans7@gmail.com](mailto:mohamedashrafmans7@gmail.com)  
+💡 **Let's collaborate and turn your data into a competitive advantage!**
