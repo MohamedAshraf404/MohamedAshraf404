@@ -1,62 +1,97 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ashraf</h1>
-<h3 align="center">Data Analyst | Business Intelligence Specialist | Storyteller with Data</h3>
-
-🌟 **Transforming Raw Data into Strategic Insights** 🌟  
-
-I am a data enthusiast with a knack for turning complex datasets into actionable insights. My expertise lies in analyzing data, building interactive dashboards, and crafting compelling visualizations that drive business growth. From automating workflows to presenting data-driven stories, I thrive on making data accessible and impactful.
+# Hello World! 🌍  
+I'm **Mohamed Ashraf Mansour** 👋🏼  
+An ambitious **Data Analyst** based in Damietta, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!  
 
 ---
 
-<h2 align="left">🚀 My Expertise</h2>
-
-- **📊 Data Analysis:** Uncovering hidden trends and patterns in complex datasets to drive decision-making.  
-- **📈 Business Intelligence:** Designing dynamic, user-friendly dashboards using Power BI and Tableau.  
-- **🔄 Automation:** Streamlining processes with Python and SQL to enhance efficiency and accuracy.  
-- **📚 Data Storytelling:** Communicating insights through clear, impactful narratives that influence business strategy.  
+## 📊 **Currently**  
+- Freelancing on **Upwork**, **Mostaql**, and **Khamsat**.  
+- Continuously learning from platforms like **Google**, **DataCamp**, and **Udemy**.  
+- Exploring advanced analytics, AI tools, and automation techniques.  
 
 ---
 
-<h2 align="left">🔧 Tools & Technologies</h2>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/power-bi" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+## 🌟 **Skills**  
+- **Languages**: Fluent in **Arabic** and **English (C2)**.  
+- **Tech Stack**:  
+  - **Data Visualization**: Power BI, Tableau  
+  - **Programming**: Python, R  
+  - **Databases**: SQL, PostgreSQL  
+  - **Tools**: Docker, Git  
+
+---
+
+## 🚀 **Featured Projects**  
+Here are some of my recent projects that showcase my expertise:  
+
+### **Social Media Advertising Dashboard**  
+- **Technologies**: Power BI, Python  
+- Automated preprocessing in Python, resolving 100% missing ROI data and creating Total Spend.  
+- Highlighted a 35% click contribution from top channels and an average engagement score of 78.9%.  
+
+### **Startup Expansion Analysis Dashboard**  
+- **Technologies**: Power BI, Python  
+- Automated data preprocessing, resolving 15% missing data.  
+- Highlighted key metrics: $1.5M revenue lead, ROI exceeding 137,437.83%.  
+
+### **HR Analytics Dashboard**  
+- **Technologies**: Power BI  
+- Consolidated multi-source data.  
+- Enhanced HR reporting efficiency with actionable attendance insights.  
+
+### **Emergency Room Dashboard**  
+- **Technologies**: Power BI  
+- Boosted patient satisfaction (+13%) and reduced wait times (1.9%).  
+
+### **Regional Sales Dashboard**  
+- **Technologies**: Power BI  
+- Achieved a 20% sales increase through advanced DAX measures.  
+
+🔍 **Check out more of my projects in my [repositories](#)!**  
+
+---
+
+## 🌟 **Certifications**  
+Here are some of the certifications I've earned:  
+- **Google Data Analytics Professional Certificate**  
+- **DataCamp Career and Skill Tracks**  
+- **HackerRank SQL Certifications (Basic to Advanced)**  
+- **Maven Analytics: Thinking Like an Analyst**  
+- **Cisco Networking Academy: Data Analytics Essentials**  
+
+🎓 **Explore the full list of my certifications on [LinkedIn](https://www.linkedin.com/in/mohamed-ashraf-mansour/)!**  
+
+---
+
+## 📫 **Contact Me**  
+- **Email**: [sohilakhaled811@gmail.com](mailto:sohilakhaled811@gmail.com)  
+- **LinkedIn**: [Mohamed Ashraf Mansour](https://www.linkedin.com/in/mohamed-ashraf-mansour/)  
+- **Portfolio**: [Check out my full portfolio here!](#)  
+
+---
+
+## 🌱 **Let's Connect!**  
+I'm always open to collaborating on exciting projects or discussing data analytics. Feel free to reach out!  
+
+---
+
+### 🎨 **Creative Animations**  
+Here are some creative animations to make this README more engaging:
+
+```html
+<h3 align="center" style="color: #2ecc71;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Let's Connect!
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-ashraf-mansour/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Power_Automate_Logo.png" alt="Power Automate" width="40" height="40"/>
+  <a href="mailto:sohilakhaled811@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
----
-
-<h2 align="left">💡 My Key Projects</h2>
-
-- **📌 Sales Performance Dashboard:** Developed an interactive Power BI dashboard to analyze sales trends, identify growth opportunities, and optimize revenue streams.  
-- **📌 Marketing Campaign Analytics:** Automated the generation of campaign performance reports using Python, SQL, and Tableau, enabling real-time decision-making.  
-- **📌 Financial KPI Tracker:** Built a comprehensive KPI monitoring system using SQL and Power BI to track and visualize key financial metrics.  
-
----
-
-<h2 align="left">🌟 Let's Connect!</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-ashraf-mansour/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/mohamedashraf7" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
-
-📧 **Email me:** [mohamedashrafmans7@gmail.com](mailto:mohamedashrafmans7@gmail.com)  
-💡 **Let's collaborate and turn your data into a competitive advantage!**
