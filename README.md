@@ -1,4 +1,5 @@
-# Mohamed Ashraf - BI Specialist | Power BI Developer | Data Analyst
+# Mohamed Ashraf 
+BI Specialist | Power BI Developer | Data Analyst
 
 ## 👋 Welcome to My GitHub Profile  
 I am **Mohamed Ashraf**, a professional in data analysis and business intelligence development. I specialize in extracting valuable insights from raw data and transforming it into actionable information using tools like **Excel**, **Power BI**, **Python**, and databases.  
