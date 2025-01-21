@@ -5,7 +5,7 @@
 ---
 
 ## 👋 **Profile**  
-I am **Mohamed Ashraf**, a Data Analyst and Business Intelligence (BI) Specialist with expertise in analyzing complex datasets and providing insights that support strategic decision-making. Dedicated to optimizing business performance through data-driven solutions, I continuously develop my skills and stay updated with the latest technologies in the field. I look forward to contributing to a dynamic team and delivering impactful results.  
+I am **Mohamed Ashraf**, a Data Analyst and Business Intelligence (BI) Specialist with expertise in analyzing complex datasets and providing insights that support strategic decision-making. Dedicated to optimizing business performance through data-driven solutions, I continuously develop my skills and stay updated with the latest technologies in the field.  
 
 ---
 
