@@ -27,6 +27,29 @@ Here are some of the tools and technologies I work with:
 
 ## 📂 **Projects**  
 
+# Sales Data Analysis for Adventure Works
+
+This project involves the development of an interactive dashboard to analyze Adventure Works sales data using Power BI. The dashboard provides clear and actionable insights to enhance decision-making.
+
+## Project Overview
+
+- **Modeling**: Built a star schema and created custom tables to organize the data effectively.
+- **Analysis**: Developed key measures such as:
+  - Total Orders
+  - Revenue
+  - Top Sales Representatives
+- **Design**: Created a three-page interactive dashboard featuring:
+  - Filters for dynamic data exploration
+  - Bookmarks for easy navigation
+
+## Results
+
+The dashboard has significantly improved decision-making by providing clear and actionable insights into sales performance.
+
+## Tools Used
+
+- **Power BI**: For data modeling, analysis, and dashboard creation.
+
 ### **Top Selling Products Data Analysis**  
 - **Description**: Analyzed a structured dataset to identify top-selling products across categories.  
 - **Key Achievements**:  
