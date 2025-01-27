@@ -41,7 +41,6 @@ This project involves the development of an interactive dashboard to analyze Adv
 - **Design**: Created a three-page interactive dashboard featuring:
   - Filters for dynamic data exploration
   - Bookmarks for easy navigation
-
 - **Tools Used**: Power BI 
 
 ### **Top Selling Products Data Analysis**  
@@ -50,7 +49,7 @@ This project involves the development of an interactive dashboard to analyze Adv
   - Designed an interactive Power BI dashboard with key insights, including total units sold, revenue, average ratings, and top-performing products.  
   - Developed custom DAX measures to calculate KPIs such as Total Revenue, Average Rating, and Total Tax.  
   - Created dynamic visualizations with filters and slicers to enhance interactivity.  
- 
+ - **Tools Used**: Power BI 
 
 ### **Smart Pneumonia Diagnosis with AI**  
 - **Description**: Implemented AI models using CNNs to detect pneumonia and other conditions from chest X-ray images.  
